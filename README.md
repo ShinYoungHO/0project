@@ -1,6 +1,7 @@
 # 0project
-HTML basic  
-tags. 
+HTML basic tags.       
+
+
 head-
   title
   meta charset utf-8
